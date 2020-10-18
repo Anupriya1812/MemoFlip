@@ -53,3 +53,21 @@ body {
 .front-face {
   transform: rotateY(180deg);
 }
+
+.first
+{
+  margin-top: 100px;
+  margin-left: 30px;
+  width: 220px;
+  height: 400px;
+  font-size: 18px;
+  font-family: sans-serif;
+  border: 1px solid white;
+  padding: 22px;
+  color: #000000;
+  background-color: #FBF654;
+
+}
+.monospace {
+  font-family: "Lucida Console", Courier, monospace;
+}
